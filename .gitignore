@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Patient Data
+.nii
+.dcm
+.nii.gz
+.mnc
+.npz
+
+# Trained Models
+.h5
+.keras
+.cpt
